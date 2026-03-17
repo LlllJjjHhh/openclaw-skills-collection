@@ -8,8 +8,9 @@ OpenClaw 是一个开源个人AI助手框架，支持自定义技能扩展。这
 
 | 技能 | 描述 | 分类 |
 |------|------|------|
-| [excel-utils-skill](./skills/excel-utils-skill) | Excel批量处理技能，支持合并、转换、清洗 | 工具 |
+| [excel-utils-skill](./skills/excel-utils-skill) | Excel批量处理技能，支持合并、转换、清洗、统计 | 工具 |
 | [quote-daily-skill](./skills/quote-daily-skill) | 每日语录打卡技能，发送今日格言 | 工具 |
+| [bilibili-downloader-skill](./skills/bilibili-downloader-skill) | B站视频下载器，支持批量下载和音频提取 | 工具 |
 | [ai-chat-skill](./skills/ai-chat-skill) | 本地大模型聊天技能，集成chat-llm-webui | AI/大模型 |
 | [image-generate-skill](./skills/image-generate-skill) | AI图像生成技能，调用本地Stable Diffusion | AI/画图 |
 
